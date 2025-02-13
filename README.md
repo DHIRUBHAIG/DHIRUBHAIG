@@ -1,3 +1,6 @@
+![logo]![image](https://github.com/user-attachments/assets/656207ef-374b-4878-ab82-51581bc9acb6)
+
+
 <h1 align="center">Hi 👋, I'm DHIRU BHAI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="left" alt="coding" width="400">2nd YEAR STUDENT AND ENHANCING OUR SKILL</h3>
