@@ -1,6 +1,7 @@
-![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Dhiraj%20Kumar%20Guta&fontSize=38&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=60)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Dhiraj+Kumar+Gupta;AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+DSA+%7C+Problem+Solver)
 
-# 👋 Hi, I'm **Dhiraj Kumar Guta**
+
+# 👋 Hi, I'm **Dhiraj Kumar Gupta**
 ### 🚀 AI & Machine Learning | Computer Vision | DSA
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhirubhaig&label=Profile%20Views&color=0e75b6&style=flat)
@@ -68,7 +69,10 @@ https://github.com/DHIRUBHAIG/smart_vehicle_number_plate_detection
 
 ## 📈 GeeksforGeeks Stats
 
-![GFG Stats](https://geeks-for-geeks-stats.vercel.app/?username=dhirubhai76)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dhirubhai76/)
+
+
+
 
 ---
 
@@ -80,15 +84,24 @@ https://github.com/DHIRUBHAIG/smart_vehicle_number_plate_detection
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirubhaig&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirubhaig&show_icons=true&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhirubhaig&theme=tokyonight)
+![GitHub Contribution Graph](https://ghchart.rshah.org/dhirubhaig)
+
+
 
 ---
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhirubhaig&theme=onedark&row=1)
+## 🏆 GitHub Highlights
+- 🚀 Built real-world AI & Computer Vision projects
+- 📈 Consistent GitHub contributions
+- 🧠 Strong DSA & problem-solving skills
+
+![GitHub Contributions](https://ghchart.rshah.org/dhirubhaig)
+
+
 
 ---
 
